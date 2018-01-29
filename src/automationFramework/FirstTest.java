@@ -10,9 +10,11 @@ public class FirstTest {
 	public static void main(String[] args) throws InterruptedException {
 		// Create a new instance of the Firefox driver
 							
-	
-        System.out.println("Passed");
+		System.out.println(" this is the test");
+		
 
+        System.out.println("Passed");
+        
        
      
 	}
